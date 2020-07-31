@@ -1,0 +1,21 @@
+
+Checkout:
+=========
+crear carpeta c:\pruebas\github\prueba1 y dentro de la misma ejecutar:
+
+git clone https://github.com/edumac/prueba1.git .
+   
+git remote add origin https://github.com/edumac/prueba1.git
+
+Actualizar:
+===========
+
+git pull
+
+Commit (local)
+==============
+git commit -m "se agregan dos archivos"
+
+Commit en remoto
+================
+git push 
